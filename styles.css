@@ -1,0 +1,15 @@
+h1,
+.headline p {
+  margin-left: 16rem;
+  margin-right: 16rem;
+}
+
+.social-media-links {
+  margin-left: 14rem;
+  gap: 24px;
+  list-style: none;
+}
+
+.cards {
+  margin-left: 6.5%;
+}
